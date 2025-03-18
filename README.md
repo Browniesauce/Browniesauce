@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Browniesauce 
 - 👀 I’m interested in App Development , Photography , Web Development(Full Stack) . 
-- 🌱 I’m currently learning C++ , ReactJS , Video Editing . 
+- 🌱 I’m currently learning C++ , JavaScript , Video Editing . 
 - 💞️ I’m looking to collaborate on App Development and Automation
 - 📫 How to reach me browniesauce05@gmail.com
 - ⚡ Fun fact: Enjoy Taking Pictures of Random Objects
