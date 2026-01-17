@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development , Photography , Web Development(Full Stack) . 
 - 🌱 I’m currently learning C++ , JavaScript , Video Editing . 
 - 💞️ I’m looking to collaborate on App Development and Automation
-- 📫 How to reach me browniesauce05@gmail.com
+- 📫 How to reach me rohit_ds@outlook.com
 - ⚡ Fun fact: Enjoy Taking Pictures of Random Objects
 
 <!---
